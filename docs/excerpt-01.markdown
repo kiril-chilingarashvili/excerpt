@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bernoulli's Fallacy, Chapter 1 Excerpt
+title: Bernoulli's Fallacy by Aubrey Clayton, Chapter 1 Excerpt
 publish: true
 ---
 
