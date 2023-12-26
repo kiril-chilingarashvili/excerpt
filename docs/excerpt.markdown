@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bernoulli's Fallacy, Chapter 1 Excerpt
-publish: false
+publish: true
 ---
 
 # 1 
